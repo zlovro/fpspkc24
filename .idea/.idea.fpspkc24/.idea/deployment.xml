@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" remoteFilesAllowedToDisappearOnAutoupload="false">
+    <serverData>
+      <paths name="rpi">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$/Library/PackageCache/com.unity.ai.navigation" web="/" />
+            <mapping local="$PROJECT_DIR$/Packages" web="/" />
+            <mapping local="$PROJECT_DIR$/Library/PackageCache/com.unity.burst" web="/" />
+            <mapping local="$PROJECT_DIR$/ProjectSettings" web="/" />
+            <mapping local="$PROJECT_DIR$/Library/PackageCache/com.unity.collab-proxy" web="/" />
+            <mapping local="$PROJECT_DIR$/Library/PackageCache/com.unity.collections" web="/" />
+            <mapping local="$PROJECT_DIR$/Library/PackageCache/com.unity.ext.nunit" web="/" />
+            <mapping local="$PROJECT_DIR$/Library/PackageCache/com.unity.ide.rider" web="/" />
+            <mapping local="$PROJECT_DIR$/Library/PackageCache/com.unity.ide.visualstudio" web="/" />
+            <mapping local="$PROJECT_DIR$/Library/PackageCache/com.unity.inputsystem" web="/" />
+            <mapping local="$PROJECT_DIR$/Library/PackageCache/com.unity.mathematics" web="/" />
+            <mapping local="$PROJECT_DIR$/Library/PackageCache/com.unity.nuget.mono-cecil" web="/" />
+            <mapping local="$PROJECT_DIR$/Library/PackageCache/com.unity.render-pipelines.core" web="/" />
+            <mapping local="$PROJECT_DIR$/Library/PackageCache/com.unity.render-pipelines.universal" web="/" />
+            <mapping local="$PROJECT_DIR$/Library/PackageCache/com.unity.render-pipelines.universal-config" web="/" />
+            <mapping local="$PROJECT_DIR$/Library/PackageCache/com.unity.rendering.light-transport" web="/" />
+            <mapping local="$PROJECT_DIR$/Library/PackageCache/com.unity.searcher" web="/" />
+            <mapping local="$PROJECT_DIR$/Library/PackageCache/com.unity.shadergraph" web="/" />
+            <mapping local="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework" web="/" />
+            <mapping local="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework.performance" web="/" />
+            <mapping local="$PROJECT_DIR$/Library/PackageCache/com.unity.timeline" web="/" />
+            <mapping local="$PROJECT_DIR$/Library/PackageCache/com.unity.ugui" web="/" />
+            <mapping local="$PROJECT_DIR$/Library/PackageCache/com.unity.visualscripting" web="/" />
+            <mapping local="$PROJECT_DIR$/Library/PackageCache/com.unity.modules.accessibility" web="/" />
+            <mapping local="$PROJECT_DIR$/Library/PackageCache/com.unity.modules.ai" web="/" />
+            <mapping local="$PROJECT_DIR$/Library/PackageCache/com.unity.modules.androidjni" web="/" />
+            <mapping local="$PROJECT_DIR$/Library/PackageCache/com.unity.modules.animation" web="/" />
+            <mapping local="$PROJECT_DIR$/Library/PackageCache/com.unity.modules.assetbundle" web="/" />
+            <mapping local="$PROJECT_DIR$/Library/PackageCache/com.unity.modules.audio" web="/" />
+            <mapping local="$PROJECT_DIR$/Library/PackageCache/com.unity.modules.cloth" web="/" />
+            <mapping local="$PROJECT_DIR$/Library/PackageCache/com.unity.modules.director" web="/" />
+            <mapping local="$PROJECT_DIR$/Library/PackageCache/com.unity.modules.hierarchycore" web="/" />
+            <mapping local="$PROJECT_DIR$/Library/PackageCache/com.unity.modules.imageconversion" web="/" />
+            <mapping local="$PROJECT_DIR$/Library/PackageCache/com.unity.modules.imgui" web="/" />
+            <mapping local="$PROJECT_DIR$/Library/PackageCache/com.unity.modules.jsonserialize" web="/" />
+            <mapping local="$PROJECT_DIR$/Library/PackageCache/com.unity.modules.particlesystem" web="/" />
+            <mapping local="$PROJECT_DIR$/Library/PackageCache/com.unity.modules.physics" web="/" />
+            <mapping local="$PROJECT_DIR$/Library/PackageCache/com.unity.modules.physics2d" web="/" />
+            <mapping local="$PROJECT_DIR$/Library/PackageCache/com.unity.modules.screencapture" web="/" />
+            <mapping local="$PROJECT_DIR$/Library/PackageCache/com.unity.modules.subsystems" web="/" />
+            <mapping local="$PROJECT_DIR$/Library/PackageCache/com.unity.modules.terrain" web="/" />
+            <mapping local="$PROJECT_DIR$/Library/PackageCache/com.unity.modules.terrainphysics" web="/" />
+            <mapping local="$PROJECT_DIR$/Library/PackageCache/com.unity.modules.tilemap" web="/" />
+            <mapping local="$PROJECT_DIR$/Library/PackageCache/com.unity.modules.ui" web="/" />
+            <mapping local="$PROJECT_DIR$/Library/PackageCache/com.unity.modules.uielements" web="/" />
+            <mapping local="$PROJECT_DIR$/Library/PackageCache/com.unity.modules.umbra" web="/" />
+            <mapping local="$PROJECT_DIR$/Library/PackageCache/com.unity.modules.unityanalytics" web="/" />
+            <mapping local="$PROJECT_DIR$/Library/PackageCache/com.unity.modules.unitywebrequest" web="/" />
+            <mapping local="$PROJECT_DIR$/Library/PackageCache/com.unity.modules.unitywebrequestassetbundle" web="/" />
+            <mapping local="$PROJECT_DIR$/Library/PackageCache/com.unity.modules.unitywebrequestaudio" web="/" />
+            <mapping local="$PROJECT_DIR$/Library/PackageCache/com.unity.modules.unitywebrequesttexture" web="/" />
+            <mapping local="$PROJECT_DIR$/Library/PackageCache/com.unity.modules.unitywebrequestwww" web="/" />
+            <mapping local="$PROJECT_DIR$/Library/PackageCache/com.unity.modules.vehicles" web="/" />
+            <mapping local="$PROJECT_DIR$/Library/PackageCache/com.unity.modules.video" web="/" />
+            <mapping local="$PROJECT_DIR$/Library/PackageCache/com.unity.modules.vr" web="/" />
+            <mapping local="$PROJECT_DIR$/Library/PackageCache/com.unity.modules.wind" web="/" />
+            <mapping local="$PROJECT_DIR$/Library/PackageCache/com.unity.modules.xr" web="/" />
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+  </component>
+</project>
